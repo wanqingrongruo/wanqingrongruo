@@ -2,7 +2,7 @@
 - 😄 Focusing on iOS & Swift <br>
 - 🔭 Working on Hefei<br>
 - 🌱 Learning SwiftUI, Flutter and HarmonyOS<br>
-- 🍖 Android Junior developer
+- 🍖 A Cursorer,work with AI
 
 
 ## 🌐 Socials:
